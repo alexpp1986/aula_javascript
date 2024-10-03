@@ -17,7 +17,7 @@ function soma (a, b) {
 
 function somaSubtrai(n1, n2) {
 let vamossomar = n1 + n2;
-let vamosdiminuir = n1 - n2;
+let vamosdiminuir = n1 - n2
 console.log("somando:", vamossomar);
 console.log("subtraido:", vamosdiminuir);
 }
