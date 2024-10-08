@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    gap: 40px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+}
+
+.verde {
+    background-color: rgb(9, 255, 0);
+    padding: 20;
+}
+
+.roxo {
+    background-color: rgb(85, 9, 68);
+    padding: 20;
+}
